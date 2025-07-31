@@ -22,3 +22,9 @@ resource "azurerm_resource_group" "rgblock" {
     location = "central india"
   
 }
+
+resource "azurerm_resource_group" "ayush223" {
+    name = "ayush_agrawal23"
+    location = "central india"
+  
+}
