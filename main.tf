@@ -12,8 +12,8 @@ provider "azurerm" {
   subscription_id = "25a58ceb-2570-42e2-9d35-00b46979c51a"
 }
 
-resource "azurerm_resource_group" "xyz" {
-    name = "test-rg9120"
+resource "azurerm_resource_group" "ayush" {
+    name = "ayush_agrawal"
     location = "central india"
   
 }
