@@ -22,3 +22,8 @@ resource "azurerm_resource_group" "rgblock" {
     location = "central india"
   
 }
+resource "azurerm_resource_group" "rgblock" {
+    name = "pravinrg"
+    location = "central india"
+  
+}
