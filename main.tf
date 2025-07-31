@@ -17,3 +17,8 @@ resource "azurerm_resource_group" "xyz" {
     location = "central india"
   
 }
+resource "azurerm_resource_group" "rgblock" {
+    name = "sadhanarg"
+    location = "central india"
+  
+}
