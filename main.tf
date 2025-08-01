@@ -22,8 +22,17 @@ resource "azurerm_resource_group" "rgblock" {
     location = "central india"
   
 }
+
+
+resource "azurerm_resource_group" "naasasme" {
+  name = ""
+  location = ""
+
+}
+
 resource "azurerm_resource_group" "rgb2e2lock" {
     name = "sadhanarg242"
     location = "central india"
   
 }
+
